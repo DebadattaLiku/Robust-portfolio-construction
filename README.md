@@ -149,13 +149,14 @@ The project includes:
 ## Repository Structure
 
 ```
-robust-portfolio-construction/
+Robust-portfolio-construction/
 │
 ├── README.md
 ├── portfolio_construction.ipynb
 ├── report.pdf
 ├── requirements.txt
-└── figures/
+├── .gitignore
+└── LICENSE
 ```
 
 ---
